@@ -1,0 +1,40 @@
+* {
+
+    text-align: center;
+    
+    }
+    
+    /*Alternative CSS Centering Code with the "body" Selector*/
+    
+    body {
+    
+    text-align: center;
+    
+    }
+    
+    /* Styling */
+    
+    body {
+      margin: auto;
+      width: 640px; 
+      padding: 50px;
+      font-family: 'Lexend Deca', sans-serif; 
+      color: black;   
+      
+    }
+
+    .btn1 {
+        padding:10px;
+        background-color: #ffffff;
+        border: 1px solid #666;
+        color:purple;
+        text-decoration:none;
+      }
+
+      .btn2 {
+        padding:10px;
+        background-color: #ba41fc;
+        border: 1px solid #666;
+        color:rgb(255, 255, 255);
+        text-decoration:none;
+      }
